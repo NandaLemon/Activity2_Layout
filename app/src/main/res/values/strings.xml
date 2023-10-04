@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">myApp</string>
+    <string name="Nama">Rizky Nanda Praditia</string>
+    <string name="NoHp">08111222333</string>
+    <string name="Klik">Klik</string>
+    <string name="Klik2">Hapus</string>
+    <string name="Klik3">Pesan</string>
+    <string name="Klik4">Kanan</string>
+    <string name="Klik5">Kiri</string>
+    <string name="Tulisan">Pilih Mobilmu</string>
+</resources>
